@@ -1,0 +1,1 @@
+fetch command also fetched the main branch which was not here in the local machine but was there in the remote
