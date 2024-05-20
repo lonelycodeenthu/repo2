@@ -1,2 +1,0 @@
-hello priyanshu
-this is not the master branch, this is somebranch.
